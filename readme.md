@@ -15,4 +15,4 @@ Hola, en este documento deberé de documentar todos los pasos que voy haciendo p
 10. hacemos un git commit -am
 11. Por último hacemos un git push para lanzar los cambios del repositorio local al repositorio remoto y por tanto deberíamos de ver estos cambios en el repositorio remoto de github.
 
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](https://user-images.githubusercontent.com/32896437/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Texto a mostrar cuando nos situamos sobre la imagen. En este caso sería Baile de la película Pulp Fiction")
+![No ser cargo correctamente la imagen](./img/Captura%20desde%202023-09-08%2012-20-35.png "Imagen de git con los cambios en readme")
