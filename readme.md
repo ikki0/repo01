@@ -8,7 +8,7 @@ Hola, en este documento deberé de documentar todos los pasos que voy haciendo p
 6. Para crear el repositorio remoto en github.com seleccionamos el botón con forma de + y hacemos click en 'nuevo repositorio'
 7. Escribimos un nombre para el repositorio, lo mantenemos en público y hacemos click en crear nuevo repositorio
 8. Dentro de la consola del editorio copiamos línea por línea los siguientes comandos:
-   1. git remote add origin git@github.com:ikki0/repo01.git
+   1. git remote add origin git@github.com:miUsuario/repo01.git
    2. git branch -M main
    3. git push -u origin main
 9. Si a continuación hacemos un git remote -v observaremos que ahora sí existe nuestro repositorio remoto con el nombre que lo hemos creado.
